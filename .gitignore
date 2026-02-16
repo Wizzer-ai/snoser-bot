@@ -1,0 +1,10 @@
+# Git ignore rules 
+*.exe 
+*.msi 
+*.log 
+__pycache__/ 
+*.pyc 
+.env 
+logs/ 
+*.pkl 
+storage.pkl 
