@@ -1,0 +1,9 @@
+aiogram==3.4.1
+aiosqlite
+yt-dlp
+aiohttp-socks
+python-dotenv
+aiofiles
+loguru
+requests
+beautifulsoup4
